@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ffs
-=======
-aaa
->>>>>>> 5ce10592c1724e751b48edbd41a61b1a9e70ac41
+ffsaaa
